@@ -1,0 +1,12 @@
+body {
+        font-family:sans-sans-serif;
+        background-color:rgb(122,255,126);
+}
+#content {
+        background-color:rgb(241, 250, 205);
+        border:1px solid #7ebbfc;
+        border-radius:10px;
+}
+h1, h2, h3 {
+        color: #fc807e;
+}
